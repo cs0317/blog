@@ -8,7 +8,7 @@
 
 ## 博文分类
 
-* [科研心得](tree/master/SomeThroughtsAboutResearch) - 我对科研方法的一些体会
+* [科研心得](SomeThroughtsAboutResearch) - 我对科研方法的一些体会
 * [Ace Editor] - awesome web-based text editor
 * [markdown-it] - Markdown parser done right. Fast and easy to extend.
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
