@@ -9,11 +9,6 @@
 ## 博文分类
 
 * [科研心得](SomeThroughtsAboutResearch) - 我对科研方法的一些体会
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
-* [jQuery] - duh
+* [感悟生活](InspirationsFromLife) - 有时会思考生命的意义
+* [独立精神，自由思想](FreedomOfThought) - 与天壤而同久，共三光而永光
+* [偶发感受](RandomThoughts) - 杂谈
